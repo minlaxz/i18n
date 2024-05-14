@@ -2756,7 +2756,7 @@ Map<String, Map<String, String>> dateTimePatternMap() => {
 
       /// Extended set of localized date/time patterns for locale ja.
       'ja': const {
-        'd': 'd日', // DAY
+        'd': 'd', // DAY
         'E': 'ccc', // ABBR_WEEKDAY
         'EEEE': 'cccc', // WEEKDAY
         'LLL': 'M月', // ABBR_STANDALONE_MONTH
